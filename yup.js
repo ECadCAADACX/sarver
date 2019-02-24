@@ -33,4 +33,4 @@ if(message.content.split(' ')[0] == '-bc') {
 })
 
 
-client.login('NTQ5MjM2MTY3ODUwMTk3MDEy.D1Q8kw.fH6dijkeZtukLsZOwQB4qmAP7OU');
+client.login('BOT_TOKIN');
